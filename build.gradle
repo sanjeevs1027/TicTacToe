@@ -15,6 +15,8 @@ buildscript {
 
 apply plugin: 'java'
 apply plugin: 'kotlin'
+apply plugin: "application"
+mainClassName = 'edu.workshop.kotlin.game.AppKt'
 
 sourceCompatibility = 1.8
 compileKotlin {
