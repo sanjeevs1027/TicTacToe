@@ -7,6 +7,7 @@ Come lets build a simple tic-tac-toe game. After `Kotlin` and `Ktor` introductio
 3) Gradle 5.5.1
 4) Git
 5) IntelliJ Idea
+6) PostgreSQL
 
 ###### **Installation**
 1) Clone this project
